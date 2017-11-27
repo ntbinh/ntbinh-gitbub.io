@@ -1,4 +1,4 @@
-ntbinh-gitbub.io
+ntbinh.gitbub.io
 ================
 
-My github,io page
+My Github.io page
